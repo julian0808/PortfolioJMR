@@ -1,48 +1,19 @@
-**Table of Contents**
+<h1 align="center">Dev Dictionary</h1>
+<p align="center">Find information on any technology</p>
+<kbd><img src="https://cloud.githubusercontent.com/assets/4705188/20508600/ac62b414-b030-11e6-9dfe-691a6a3250fd.png" alt="image">
+</kbd>
 
-[TOCM]
+## Overview
+This is the repository of **Dev Dictionary**, a Chrome Extension to help developers find information on any technology. It can be installed through the [Chrome Web Store](https://chrome.google.com/webstore/detail/dev-dictionary/mbhildcgplbobgnhgnihmeiaokhdaelf).
 
-[TOC]
+## Development
+* For more information regarding development of Chrome extensions, see [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
+* For more information regarding Chrome extension APIs, see [Chrome Platform APIs](https://developer.chrome.com/extensions/api_index)
 
-### PORTFOLIO 
-###- Web Projects:
-- bootstrap-corporate-website 
-- bootstrap-modal-web-site 
-- bootstrap-pinterest-image-gallery 
-- bootstrap-responsive-website1 
-- bootstrap-website-1 
-- bootstrap-website-ii 
-- Demo website
-- form-validation-semanticui 
-- movie-search1 
-- photox-bootstrap 
-- pixabay-image-finder-react 
-- pure-bootstrap-website 
-- reactjmr-todo-list 
-- react-myportfoliosite 
-- react-recipe-app-jmr 
-- recipe-app-js 
-- responsive-admin-dahboard-dark mode 
-###- UX-UI:
-- bootstrap-corporate-website 
-- bootstrap-modal-web-site 
-- bootstrap-pinterest-image-gallery 
-- bootstrap-responsive-website1 
-- bootstrap-website-1 
-- bootstrap-website-ii 
-- form-validation-semanticui 
-- movie-search1 
-- photox-bootstrap 
-- pixabay-image-finder-react 
-- pure-bootstrap-website 
-- reactjmr-todo-list 
-- react-myportfoliosite 
-- react-recipe-app-jmr 
-- recipe-app-js 
-- responsive-admin-dahboard-dark mode 
-
-
-
-
-
-
+## Libraries
+* [React](https://facebook.github.io/react/)
+* [Redux](http://redux.js.org/)
+* [Webpack](https://webpack.github.io/)
+* [Node JS](https://nodejs.org)
+* [Bootstrap](http://getbootstrap.com/)
+* [jQuery](https://jquery.com/)
